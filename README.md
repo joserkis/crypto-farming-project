@@ -1,14 +1,3 @@
-<p align="center">
-  <img alt="issues" src="https://img.shields.io/github/issues/niiischall/crypto-farming"/>
-  <img alt="forks" src="https://img.shields.io/github/forks/niiischall/crypto-farming" />
-  <img alt="stars" src="https://img.shields.io/github/stars/niiischall/crypto-farming" />
-  <img alt="license" src="https://img.shields.io/github/license/niiischall/crypto-farming" />
-</p>
-
-<p align="center">
-  <h1 align="center">Crypto Farming dApp</h1>
-</p>
-
 ## About The Project
 A decentralized application where an investor deposits a certain number of [DAI](https://makerdao.com/en/) coins and gets back extra coins as a reward for investing on the platform.
 
