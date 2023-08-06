@@ -1,6 +1,6 @@
 ## About The Project
 A decentralized application where an investor deposits a certain number of [DAI](https://makerdao.com/en/) coins and gets back extra coins as a reward for investing on the platform.
-ffff
+
 ## Tech stack and libraries
  - Solidity
  - Ethereum Blockchain
