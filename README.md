@@ -46,5 +46,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <br />
 
-[![ForTheBadge 60-percent-of-the-time-works-every-time](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://github.com/niiischall/crypto-farming)
-
